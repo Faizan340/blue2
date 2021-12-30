@@ -50,7 +50,7 @@ a{
     width:500px;
 }
 .main-text h1{
-    color: #ffffff;
+    color: #0f0e0e;
     font-size: 3.5rem;
     font-weight: 600;
     text-shadow: 2px 2px 30px rgba(0,0,0,0.01);
@@ -59,7 +59,7 @@ a{
 }
 .main-text p{
     color: #00040cc0;
-    font-size: 1.3rem;
+    font-size: 2.3rem;
     margin: 0px;
     margin-top: 10px;
 }
@@ -129,9 +129,12 @@ a{
 }
 .project-heading{
     color:#ffffff;
+    font-size: 3.0rem;
+    margin-left: 200px;
 }
 .link-text{
     color:#ffffff;
+    margin-left: 150px;
 }
 .description{
     color: #8a94a7c0;
